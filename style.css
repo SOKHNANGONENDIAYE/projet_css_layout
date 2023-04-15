@@ -1,0 +1,46 @@
+.img {
+    height: 30px;
+}
+.ancre {
+    font-size: 30px;
+    display: flex;
+    align-content: space-between;
+}
+.image2 {
+    display: flex;
+    justify-content: center;
+    height: 40px;
+
+}
+h1 {
+    justify-content: center;
+}
+div{
+    font-weight: 100px;
+}
+
+.section {
+    font-size: 20px;
+    margin: 40px;
+}
+
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+}
+.parag {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 400px 400px 300px;
+    grid-template-rows: 200px 400px 500px;
+}
+
+.centre{
+    display: flex;
+    justify-content: center;
+}
